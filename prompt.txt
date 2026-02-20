@@ -1,0 +1,12 @@
+Act as a professional website copywriter.
+Generate website copy for a beauty salon with the following details:
+Business Name: Glow & Grace Beauty Salon
+Location: Bangalore
+Target Audience: Women aged 18 to 45
+Services: Hair styling, bridal makeup, facials, skincare treatments
+Requirements: Write an engaging homepage headline and introduction.
+Write service descriptions for each service.
+Include emotional appeal and customer benefits.
+Add a strong call-to-action encouraging bookings.
+Keep the tone elegant, warm, and professional.
+Make it suitable for a modern salon website.
